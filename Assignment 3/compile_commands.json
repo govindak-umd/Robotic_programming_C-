@@ -1,0 +1,29 @@
+[{
+  "file": "/home/rachith/academia/III-SEM/ENPM809Y/lectures/RWA3-Group10/src/LandBasedRobot/landbasedrobot.h",
+  "directory": "/home/rachith/academia/III-SEM/ENPM809Y/lectures/RWA3-Group10",
+  "command": "clang  -c /home/rachith/academia/III-SEM/ENPM809Y/lectures/RWA3-Group10/src/LandBasedRobot/landbasedrobot.h -o /home/rachith/academia/III-SEM/ENPM809Y/lectures/RWA3-Group10/src/LandBasedRobot/landbasedrobot.h.o  -I/usr/include/c++/5 -I/usr/include/x86_64-linux-gnu/c++/5 -I/usr/include/c++/5/backward -I/usr/lib/gcc/x86_64-linux-gnu/5/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I. -Isrc/LandBasedRobot -Isrc/LandBasedWheeled -Isrc/LandBasedTracked  -Wmain  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/home/rachith/academia/III-SEM/ENPM809Y/lectures/RWA3-Group10/src/LandBasedRobot/landbasedrobot.cpp",
+  "directory": "/home/rachith/academia/III-SEM/ENPM809Y/lectures/RWA3-Group10",
+  "command": "clang  -c /home/rachith/academia/III-SEM/ENPM809Y/lectures/RWA3-Group10/src/LandBasedRobot/landbasedrobot.cpp -o /home/rachith/academia/III-SEM/ENPM809Y/lectures/RWA3-Group10/src/LandBasedRobot/landbasedrobot.cpp.o  -I/usr/include/c++/5 -I/usr/include/x86_64-linux-gnu/c++/5 -I/usr/include/c++/5/backward -I/usr/lib/gcc/x86_64-linux-gnu/5/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I. -Isrc/LandBasedRobot -Isrc/LandBasedWheeled -Isrc/LandBasedTracked  -Wmain  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/home/rachith/academia/III-SEM/ENPM809Y/lectures/RWA3-Group10/src/LandBasedTracked/landbasedwheeled.cpp",
+  "directory": "/home/rachith/academia/III-SEM/ENPM809Y/lectures/RWA3-Group10",
+  "command": "clang  -c /home/rachith/academia/III-SEM/ENPM809Y/lectures/RWA3-Group10/src/LandBasedTracked/landbasedwheeled.cpp -o /home/rachith/academia/III-SEM/ENPM809Y/lectures/RWA3-Group10/src/LandBasedTracked/landbasedwheeled.cpp.o  -I/usr/include/c++/5 -I/usr/include/x86_64-linux-gnu/c++/5 -I/usr/include/c++/5/backward -I/usr/lib/gcc/x86_64-linux-gnu/5/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I. -Isrc/LandBasedRobot -Isrc/LandBasedWheeled -Isrc/LandBasedTracked  -Wmain  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/home/rachith/academia/III-SEM/ENPM809Y/lectures/RWA3-Group10/main.cpp",
+  "directory": "/home/rachith/academia/III-SEM/ENPM809Y/lectures/RWA3-Group10",
+  "command": "clang  -c /home/rachith/academia/III-SEM/ENPM809Y/lectures/RWA3-Group10/main.cpp -o /home/rachith/academia/III-SEM/ENPM809Y/lectures/RWA3-Group10/main.cpp.o  -I/usr/include/c++/5 -I/usr/include/x86_64-linux-gnu/c++/5 -I/usr/include/c++/5/backward -I/usr/lib/gcc/x86_64-linux-gnu/5/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I. -Isrc/LandBasedRobot -Isrc/LandBasedWheeled -Isrc/LandBasedTracked  -Wmain  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/home/rachith/academia/III-SEM/ENPM809Y/lectures/RWA3-Group10/src/LandBasedTracked/landbasedwheeled.h",
+  "directory": "/home/rachith/academia/III-SEM/ENPM809Y/lectures/RWA3-Group10",
+  "command": "clang  -c /home/rachith/academia/III-SEM/ENPM809Y/lectures/RWA3-Group10/src/LandBasedTracked/landbasedwheeled.h -o /home/rachith/academia/III-SEM/ENPM809Y/lectures/RWA3-Group10/src/LandBasedTracked/landbasedwheeled.h.o  -I/usr/include/c++/5 -I/usr/include/x86_64-linux-gnu/c++/5 -I/usr/include/c++/5/backward -I/usr/lib/gcc/x86_64-linux-gnu/5/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I. -Isrc/LandBasedRobot -Isrc/LandBasedWheeled -Isrc/LandBasedTracked  -Wmain  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/home/rachith/academia/III-SEM/ENPM809Y/lectures/RWA3-Group10/src/LandBasedWheeled/landbasedtracked.cpp",
+  "directory": "/home/rachith/academia/III-SEM/ENPM809Y/lectures/RWA3-Group10",
+  "command": "clang  -c /home/rachith/academia/III-SEM/ENPM809Y/lectures/RWA3-Group10/src/LandBasedWheeled/landbasedtracked.cpp -o /home/rachith/academia/III-SEM/ENPM809Y/lectures/RWA3-Group10/src/LandBasedWheeled/landbasedtracked.cpp.o  -I/usr/include/c++/5 -I/usr/include/x86_64-linux-gnu/c++/5 -I/usr/include/c++/5/backward -I/usr/lib/gcc/x86_64-linux-gnu/5/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I. -Isrc/LandBasedRobot -Isrc/LandBasedWheeled -Isrc/LandBasedTracked  -Wmain  -std=c++14  -Wall  -g  -O0  -Wall"
+ }, {
+  "file": "/home/rachith/academia/III-SEM/ENPM809Y/lectures/RWA3-Group10/src/LandBasedWheeled/landbasedtracked.h",
+  "directory": "/home/rachith/academia/III-SEM/ENPM809Y/lectures/RWA3-Group10",
+  "command": "clang  -c /home/rachith/academia/III-SEM/ENPM809Y/lectures/RWA3-Group10/src/LandBasedWheeled/landbasedtracked.h -o /home/rachith/academia/III-SEM/ENPM809Y/lectures/RWA3-Group10/src/LandBasedWheeled/landbasedtracked.h.o  -I/usr/include/c++/5 -I/usr/include/x86_64-linux-gnu/c++/5 -I/usr/include/c++/5/backward -I/usr/lib/gcc/x86_64-linux-gnu/5/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -I. -I. -Isrc/LandBasedRobot -Isrc/LandBasedWheeled -Isrc/LandBasedTracked  -Wmain  -std=c++14  -Wall  -g  -O0  -Wall"
+ }]

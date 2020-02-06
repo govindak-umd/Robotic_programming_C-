@@ -1,0 +1,13 @@
+[{
+  "file": "/home/rachith/git/ENPM809Y/Assignment_2/Assignment/cpp_code/main.cpp",
+  "directory": "/home/rachith/git/ENPM809Y/Assignment_2/Assignment/cpp_code",
+  "command": "clang  -c /home/rachith/git/ENPM809Y/Assignment_2/Assignment/cpp_code/main.cpp -o /home/rachith/git/ENPM809Y/Assignment_2/Assignment/cpp_code/main.cpp.o  -I/usr/include/c++/5 -I/usr/include/x86_64-linux-gnu/c++/5 -I/usr/include/c++/5/backward -I/usr/lib/gcc/x86_64-linux-gnu/5/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -Dinclude -I. -I.  -Wmain  -W  -std=c++11  -Wall  -Wmain  -g  -O0  -W  -std=c++11  -Wall"
+ }, {
+  "file": "/home/rachith/git/ENPM809Y/Assignment_2/Assignment/cpp_code/include/scenario.h",
+  "directory": "/home/rachith/git/ENPM809Y/Assignment_2/Assignment/cpp_code",
+  "command": "clang  -c /home/rachith/git/ENPM809Y/Assignment_2/Assignment/cpp_code/include/scenario.h -o /home/rachith/git/ENPM809Y/Assignment_2/Assignment/cpp_code/include/scenario.h.o  -I/usr/include/c++/5 -I/usr/include/x86_64-linux-gnu/c++/5 -I/usr/include/c++/5/backward -I/usr/lib/gcc/x86_64-linux-gnu/5/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -Dinclude -I. -I.  -Wmain  -W  -std=c++11  -Wall  -Wmain  -g  -O0  -W  -std=c++11  -Wall"
+ }, {
+  "file": "/home/rachith/git/ENPM809Y/Assignment_2/Assignment/cpp_code/scenario.cpp",
+  "directory": "/home/rachith/git/ENPM809Y/Assignment_2/Assignment/cpp_code",
+  "command": "clang  -c /home/rachith/git/ENPM809Y/Assignment_2/Assignment/cpp_code/scenario.cpp -o /home/rachith/git/ENPM809Y/Assignment_2/Assignment/cpp_code/scenario.cpp.o  -I/usr/include/c++/5 -I/usr/include/x86_64-linux-gnu/c++/5 -I/usr/include/c++/5/backward -I/usr/lib/gcc/x86_64-linux-gnu/5/include -I/usr/local/include -I/usr/lib/gcc/x86_64-linux-gnu/5/include-fixed -I/usr/include/x86_64-linux-gnu -I/usr/include -Dinclude -I. -I.  -Wmain  -W  -std=c++11  -Wall  -Wmain  -g  -O0  -W  -std=c++11  -Wall"
+ }]
